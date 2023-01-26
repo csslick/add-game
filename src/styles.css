@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.numBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #efefef;
+  padding: 1rem;
+}
+.num {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  font-size: 5rem;
+}
+
+.calcText {
+  font-size: 5rem;
+  color: #666;
+}
+
+.numBox .result {
+  font-size: 5rem;
+  text-align: center;
+}
